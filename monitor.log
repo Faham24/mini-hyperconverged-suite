@@ -1,0 +1,93 @@
+2025-07-27 13:57:33,215 - INFO - [node1] ✅ Service is healthy.
+2025-07-27 13:57:33,216 - INFO - [node2] ✅ Service is healthy.
+2025-07-27 13:57:33,216 - INFO - [node3] ✅ Service is healthy.
+2025-07-27 13:57:38,221 - INFO - [node1] ✅ Service is healthy.
+2025-07-27 13:57:38,221 - INFO - [node2] ✅ Service is healthy.
+2025-07-27 13:57:38,221 - INFO - [node3] ✅ Service is healthy.
+2025-07-27 13:57:43,227 - INFO - [node1] ✅ Service is healthy.
+2025-07-27 13:57:43,228 - INFO - [node2] ✅ Service is healthy.
+2025-07-27 13:57:43,228 - INFO - [node3] ✅ Service is healthy.
+2025-07-27 13:57:48,233 - INFO - [node1] ✅ Service is healthy.
+2025-07-27 13:57:48,233 - INFO - [node2] ✅ Service is healthy.
+2025-07-27 13:57:48,233 - INFO - [node3] ✅ Service is healthy.
+2025-07-27 13:57:53,235 - INFO - [node1] ✅ Service is healthy.
+2025-07-27 13:57:53,236 - INFO - [node2] ✅ Service is healthy.
+2025-07-27 13:57:53,236 - INFO - [node3] ✅ Service is healthy.
+2025-07-27 13:57:58,242 - INFO - [node1] ✅ Service is healthy.
+2025-07-27 13:57:58,242 - INFO - [node2] ✅ Service is healthy.
+2025-07-27 13:57:58,242 - INFO - [node3] ✅ Service is healthy.
+2025-07-27 13:58:03,246 - INFO - [node1] ✅ Service is healthy.
+2025-07-27 13:58:03,247 - WARNING - [node2] ⚠ Service is DOWN. Attempting auto-heal...
+2025-07-27 13:58:03,250 - INFO - [node2] 🔄 Auto-heal triggered.
+2025-07-27 13:58:03,251 - INFO - [node3] ✅ Service is healthy.
+2025-07-27 13:58:08,256 - INFO - [node1] ✅ Service is healthy.
+2025-07-27 13:58:08,257 - INFO - [node2] ✅ Service is healthy.
+2025-07-27 13:58:08,258 - INFO - [node3] ✅ Service is healthy.
+2025-07-27 13:58:13,259 - INFO - [node1] ✅ Service is healthy.
+2025-07-27 13:58:13,259 - INFO - [node2] ✅ Service is healthy.
+2025-07-27 13:58:13,259 - INFO - [node3] ✅ Service is healthy.
+2025-07-27 13:58:18,265 - INFO - [node1] ✅ Service is healthy.
+2025-07-27 13:58:18,266 - WARNING - [node2] ⚠ Service is DOWN. Attempting auto-heal...
+2025-07-27 13:58:18,271 - INFO - [node2] 🔄 Auto-heal triggered.
+2025-07-27 13:58:18,271 - INFO - [node3] ✅ Service is healthy.
+2025-07-27 13:58:23,272 - INFO - [node1] ✅ Service is healthy.
+2025-07-27 13:58:23,273 - INFO - [node2] ✅ Service is healthy.
+2025-07-27 13:58:23,273 - INFO - [node3] ✅ Service is healthy.
+2025-07-27 13:58:28,276 - INFO - [node1] ✅ Service is healthy.
+2025-07-27 13:58:28,277 - INFO - [node2] ✅ Service is healthy.
+2025-07-27 13:58:28,277 - INFO - [node3] ✅ Service is healthy.
+2025-07-27 13:58:33,279 - INFO - [node1] ✅ Service is healthy.
+2025-07-27 13:58:33,280 - INFO - [node2] ✅ Service is healthy.
+2025-07-27 13:58:33,280 - INFO - [node3] ✅ Service is healthy.
+2025-07-27 13:58:38,285 - INFO - [node1] ✅ Service is healthy.
+2025-07-27 13:58:38,285 - INFO - [node2] ✅ Service is healthy.
+2025-07-27 13:58:38,286 - INFO - [node3] ✅ Service is healthy.
+2025-07-27 13:58:43,289 - INFO - [node1] ✅ Service is healthy.
+2025-07-27 13:58:43,290 - INFO - [node2] ✅ Service is healthy.
+2025-07-27 13:58:43,290 - INFO - [node3] ✅ Service is healthy.
+2025-07-27 13:58:48,296 - INFO - [node1] ✅ Service is healthy.
+2025-07-27 13:58:48,296 - INFO - [node2] ✅ Service is healthy.
+2025-07-27 13:58:48,296 - INFO - [node3] ✅ Service is healthy.
+2025-07-27 13:58:53,302 - INFO - [node1] ✅ Service is healthy.
+2025-07-27 13:58:53,302 - INFO - [node2] ✅ Service is healthy.
+2025-07-27 13:58:53,303 - INFO - [node3] ✅ Service is healthy.
+2025-07-27 13:58:58,308 - INFO - [node1] ✅ Service is healthy.
+2025-07-27 13:58:58,309 - INFO - [node2] ✅ Service is healthy.
+2025-07-27 13:58:58,309 - INFO - [node3] ✅ Service is healthy.
+2025-07-27 13:59:03,315 - INFO - [node1] ✅ Service is healthy.
+2025-07-27 13:59:03,315 - INFO - [node2] ✅ Service is healthy.
+2025-07-27 13:59:03,316 - INFO - [node3] ✅ Service is healthy.
+2025-07-27 13:59:08,321 - WARNING - [node1] ⚠ Service is DOWN. Attempting auto-heal...
+2025-07-27 13:59:08,326 - INFO - [node1] 🔄 Auto-heal triggered.
+2025-07-27 13:59:08,326 - INFO - [node2] ✅ Service is healthy.
+2025-07-27 13:59:08,327 - INFO - [node3] ✅ Service is healthy.
+2025-07-27 13:59:13,332 - INFO - [node1] ✅ Service is healthy.
+2025-07-27 13:59:13,333 - INFO - [node2] ✅ Service is healthy.
+2025-07-27 13:59:13,333 - INFO - [node3] ✅ Service is healthy.
+2025-07-27 13:59:18,339 - INFO - [node1] ✅ Service is healthy.
+2025-07-27 13:59:18,340 - INFO - [node2] ✅ Service is healthy.
+2025-07-27 13:59:18,341 - INFO - [node3] ✅ Service is healthy.
+2025-07-27 13:59:23,346 - WARNING - [node1] ⚠ Service is DOWN. Attempting auto-heal...
+2025-07-27 13:59:23,351 - INFO - [node1] 🔄 Auto-heal triggered.
+2025-07-27 13:59:23,351 - INFO - [node2] ✅ Service is healthy.
+2025-07-27 13:59:23,352 - INFO - [node3] ✅ Service is healthy.
+2025-07-27 13:59:28,358 - INFO - [node1] ✅ Service is healthy.
+2025-07-27 13:59:28,359 - WARNING - [node2] ⚠ Service is DOWN. Attempting auto-heal...
+2025-07-27 13:59:28,361 - INFO - [node2] 🔄 Auto-heal triggered.
+2025-07-27 13:59:28,361 - INFO - [node3] ✅ Service is healthy.
+2025-07-27 13:59:33,367 - INFO - [node1] ✅ Service is healthy.
+2025-07-27 13:59:33,368 - INFO - [node2] ✅ Service is healthy.
+2025-07-27 13:59:33,369 - INFO - [node3] ✅ Service is healthy.
+2025-07-27 13:59:38,374 - INFO - [node1] ✅ Service is healthy.
+2025-07-27 13:59:38,374 - INFO - [node2] ✅ Service is healthy.
+2025-07-27 13:59:38,375 - INFO - [node3] ✅ Service is healthy.
+2025-07-27 14:06:57,214 - WARNING - [node1] ⚠ Service is DOWN. Attempting auto-heal...
+2025-07-27 14:06:57,216 - INFO - [node1] 🔄 Auto-heal triggered.
+2025-07-27 14:06:57,216 - INFO - [node2] ✅ Service is healthy.
+2025-07-27 14:06:57,216 - INFO - [node3] ✅ Service is healthy.
+2025-07-27 14:07:02,234 - INFO - [node1] ✅ Service is healthy.
+2025-07-27 14:07:02,234 - INFO - [node2] ✅ Service is healthy.
+2025-07-27 14:07:02,234 - INFO - [node3] ✅ Service is healthy.
+2025-07-27 14:07:07,250 - INFO - [node1] ✅ Service is healthy.
+2025-07-27 14:07:07,251 - INFO - [node2] ✅ Service is healthy.
+2025-07-27 14:07:07,252 - INFO - [node3] ✅ Service is healthy.
